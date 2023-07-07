@@ -1,0 +1,70 @@
+#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+#------------------------------------------------------------------------------
+#
+# This is a textual representation of a BMG file used in Nintendos "Mario Kart
+# Wii". "Wiimms SZS Tools" can convert binary (raw) and text BMG files in both
+# directions.
+#
+# More info about the BMG file format: http://szs.wiimm.de/r/wiki/BMG
+#
+#------------------------------------------------------------------------------
+#
+
+#--- modified track names
+
+  T11	= by Jefe
+  T12	= by Vulcanus2
+  T13	= by Vulcanus2 & BigOto2
+  T14	= by wiimaster35000vr, Björn & LuigiM
+
+  T21	= by RemyInTheSky
+  T22	= by LuigiM
+  T23 = by Ermelber
+  T24	= by SpyKid
+
+  T31	= by BigOto2
+  T32	= by igorseabra4
+  T33	= by ChaosShadow23
+  T34	= by xBlue98
+
+  T41	= by SpyKid
+  T42	= by SpyKid, Scye, ZillaSpaz
+  T43	= by Gredmega
+  T44	= by BigOto2
+
+  T51	= by DJLowgey, Mewtwo2000, MrKoeiKoei
+  T52	= by WhiteMEX, Rukasudo90
+  T53	= by ZillaSpaz
+  T54	= by YellowYoshi
+
+  T61	= by DJLowgey, Mewtwo2000
+  T62	= by MrKoeikoei, Mewtwo2000
+  T63	= by Nodrazir
+  T64	= by Mewtwo2000
+
+  T71	= by Ray, Ermelbe
+  T72	= by Super blooper kirio 
+  T73	= by Jefe
+  T74	= by SuperMario64DS, DJ Lowgey
+
+  T81	= by Vulcanus2
+  T82	= by SpyKid
+  T83	= by MrBean35000vr, Chadderz
+  T84	= by HelloImYourMind
+
+#--- battle track names
+
+  U11	= Port by MRbuttCHINSx11T7
+  U12	= Textures by DarkyBenji
+  U13	= Port by Suigetsu
+  U14	= Textures by Betelrama
+  U15	= Port by MRbuttCHINSx11T7
+
+  U21	= Port by MRbuttCHINSx11T7
+  U22	= Textures by Betelrama
+  U23	= Textures by DarkyBenji
+  U24	= Textures by DarkyBenji
+  U25	= Textures by Betelrama
+  

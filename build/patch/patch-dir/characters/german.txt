@@ -1,0 +1,97 @@
+﻿#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+#------------------------------------------------------------------------------
+#
+# This is a textual representation of a BMG file used in Nintendos "Mario Kart
+# Wii". "Wiimms SZS Tools" can convert binary (raw) and text BMG files in both
+# directions.
+#
+# More info about the BMG file format: http://szs.wiimm.de/r/wiki/BMG
+#
+#------------------------------------------------------------------------------
+
+
+#--- other messages
+
+  2328	= Mario
+  2329	= Plinfa
+  232a	= Link
+  232b	= Pianta
+  232c	= Baby Rosalina
+  232d	= Gumba
+  232e	= Baby Mario
+  232f	= Sonic
+  2330	= Shy Guy
+  2331	= Ralph
+  2332	= Yoshi
+  2333	= R.O.B.
+  2334	= Professor I. Gidd
+  2335	= Toadette
+  2336	= Tuxie
+  2337	= Kamek
+  2338	= Peach
+  2339	= Pac-Man
+  233a	= Diddy Kong
+  233b	= Roy Koopa
+  233c	= Spongebob
+  233d	= Knochenbowser
+  233e	= Funky Kong
+  233f	= Rosalina
+  2340	= Mii
+  235a	= \z{802,120000}
+  235b	= \z{802,120000}
+  235c	= Mii Outfit A
+  235d	= Mii Outfit B
+  235e	/
+  238c	= Mini-Kart
+  238d	= Medi-Kart
+  238e	= Maxi-Kart
+  238f	= Baby-Booster
+  2390	= W25 Silberpfeil
+  2391	= Offroader
+  2392	= Minibiest
+  2393	= Windschnitte
+  2394	= Feuerschleuder
+  2395	= Bob-Cheep
+  2396	= Blooper-Bolide
+  2397	= Pistenpiranha
+  2398	= Monztruck
+  2399	= Cabriosa
+  239a	= Sterngleiter
+  239b	= Blue Falcon
+  239c	= Glory
+  239d	= Turbetto
+  239e	= Mini-Kart
+  239f	= Medi-Kart
+  23a0	= Maxi-Kart
+  23a1	= Mini-Kart
+  23a2	= Medi-Kart
+  23a3	= Maxi-Kart
+  23a4	/
+  23be	= Mini-Bike
+  23bf	= Medi-Bike
+  23c0	= Maxi-Bike
+  23c1	= Willi-Bike
+  23c2	= Mach-Bike
+  23c3	= Bowser-Bike
+  23c4	= Blitzer
+  23c5	= Bonbon-Bike
+  23c6	= Wario-Bike
+  23c7	= Quakquak
+  23c8	= Rapido
+  23c9	= Schnuppe
+  23ca	= Kameknaller
+  23cb	= Pistensturm
+  23cc	= Torped
+  23cd	= Jet-A
+  23ce	= Flippster
+  23cf	= Phantom
+  23d0	= Mini-Bike
+  23d1	= Medi-Bike
+  23d2	= Maxi-Bike
+  23d3	= Mini-Bike
+  23d4	= Medi-Bike
+  23d5	= Maxi-Bike
+ 
+

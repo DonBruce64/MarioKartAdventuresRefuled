@@ -1,0 +1,73 @@
+﻿#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+#------------------------------------------------------------------------------
+#
+# This is a textual representation of a BMG file used in Nintendos "Mario Kart
+# Wii". "Wiimms SZS Tools" can convert binary (raw) and text BMG files in both
+# directions.
+#
+# More info about the BMG file format: http://szs.wiimm.de/r/wiki/BMG
+#
+#------------------------------------------------------------------------------
+
+
+#--- standard track names
+
+  T11	= Psyduck Cliffs
+  T12	= Wetland Woods
+  T13	= Sunset Ridge
+  T14	= Retro Raceway
+
+  T21	= Concord Town
+  T22	= Seaside Resort
+  T23	= Volcano Beach 3
+  T24	= Bayside Boulevard
+
+  T31	= Lunar Road
+  T32	= \c{blue2}Sonic \c{gray}Twinkle Circuit
+  T33	= Celestial Ruins
+  T34	= River of Dreams
+
+  T41	= Skyline Avenue
+  T42	= Luna City
+  T43	= Rush City Run
+  T44	= Halogen Highway
+
+  T51	= \c{yellow}Sugar Rush \c{gray}Candy Mountains
+  T52	= \c{green}Zelda \c{gray}Outset Island
+  T53	= \c{red3}SM64 \c{gray}Castle Grounds
+  T54	= \c{red3}SM64 \c{gray}Cool Cool Mountain Slide
+
+  T61	= \c{yellow}DKR \c{gray}Ancient Lake
+  T62	= \c{yellow}DKR \c{gray}Jungle Falls
+  T63	= \c{yellow}DKR \c{gray}Haunted Woods
+  T64	= \c{yellow}DKR \c{gray}Star City
+
+  T71	= Sunset Raceway
+  T72	= Seaside Circuit
+  T73	= \c{blue2}F-Zero \c{gray}Big Blue
+  T74	= \c{yor4}GP \c{gray}Mario Beach
+
+  T81	= Delfino Island
+  T82	= Dreamworld Cloudway
+  T83	= Six King Labyrinth
+  T84	= Strobenz Desert 2
+
+#--- battle track names
+
+  U11	= N64 Big Donut
+  U12	= Bowser Jr.'s Fiery Flotilla
+  U13	= GCN Tilt-A-Kart
+  U14	= Asteroid Land
+  U15	= GCN Block City
+
+  U21	= DS Tart Top
+  U22	= Midnight House
+  U23	= Casino Night
+  U24	= Aquarium Park
+  U25	= Dry Bowser Stadium
+  
+
+  
+

@@ -1,0 +1,99 @@
+﻿#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+#------------------------------------------------------------------------------
+#
+# This is a textual representation of a BMG file used in Nintendos "Mario Kart
+# Wii". "Wiimms SZS Tools" can convert binary (raw) and text BMG files in both
+# directions.
+#
+# More info about the BMG file format: http://szs.wiimm.de/r/wiki/BMG
+#
+#------------------------------------------------------------------------------
+
+#--- other characters
+
+  2328	= Mario
+  2329	= Baby Rosalina
+  232a	= Link
+  232b	= Pianta
+  232c	= Kirby
+  232d	= Goomba
+  232e	= Baby Mario
+  232f	= Sonic
+  2330	= Shy Guy
+  2331	= Wreck-It Ralph
+  2332	= Yoshi!
+  2333	= Dr. Eggman
+  2334	= Professor E. Gadd
+  2335	= Toadette
+  2336	= Tuxie
+  2337	= Crash Bandicoot
+  2338	= Peach
+  2339	= Pac-Man
+  233a	= Diddy Kong
+  233b	= King Boo
+  233c	= Scout
+  233d	= Dry Boozer
+  233e	= Funky Kong
+  233f	= Rosalina
+  2340	= Mii
+  235a	= \z{802,120000}
+  235b	= \z{802,120000}
+  235c	= Mii Outfit A
+  235d	= Mii Outfit B
+  235e	/
+  238c	= Standard Kart S
+  238d	= Standard Kart M
+  238e	= Standard Kart L
+  238f	= Booster Seat
+  2390	= W25 Silver Arrow
+  2391	= Offroader
+  2392	= Mini Beast
+  2393	= Wild Wing
+  2394	= Flame Flyer
+  2395	= Cheep Charger
+  2396	= Super Blooper
+  2397	= Piranha Prowler
+  2398	= Tiny Titan
+  2399	= DayTRIPper
+  239a	= Jetsetter
+  239b	= Blue Falcon
+  239c	= Sprinter
+  239d	= Honeycoupe
+  239e	= Standard Kart S
+  239f	= Standard Kart M
+  23a0	= Standard Kart L
+  23a1	= Standard Kart S
+  23a2	= Standard Kart M
+  23a3	= Standard Kart L
+  23a4	/
+  23be	= Standard Bike S
+  23bf	= Standard Bike M
+  23c0	= Standard Bike L
+  23c1	= Bullet Bike
+  23c2	= Mach Bike
+  23c3	= Flame Runner
+  23c4	= Bit Bike
+  23c5	= Sugarscoot
+  23c6	= Wario Bike
+  23c7	= Quacker
+  23c8	= Zip Zip
+  23c9	= Shooting Star
+  23ca	= Magikruiser
+  23cb	= Sneakster
+  23cc	= Spear
+  23cd	= Jet Bubble
+  23ce	= Dolphin Dasher
+  23cf	= Phantom
+  23d0	= Standard Bike S
+  23d1	= Standard Bike M
+  23d2	= Standard Bike L
+  23d3	= Standard Bike S
+  23d4	= Standard Bike M
+  23d5	= Standard Bike L
+ 
+
+
+  
+

@@ -1,0 +1,389 @@
+﻿#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+#------------------------------------------------------------------------------
+#
+# This is a textual representation of a BMG file used in Nintendos "Mario Kart
+# Wii". "Wiimms SZS Tools" can convert binary (raw) and text BMG files in both
+# directions.
+#
+# More info about the BMG file format: http://szs.wiimm.de/r/wiki/BMG
+#
+#------------------------------------------------------------------------------
+
+
+  23f0	= Landschaftstour
+  23f1	= H20
+  23f2	= Urbane Erkundung
+  23f3	= In den Weltraum! 
+  23f4	= Spieletour\040
+  23f5	= Diddy Kong Racing
+  23f6	= Unter dem Einfluss
+  23f7	= Ultimatum
+  23f8	= Galaxy Colosseum
+  2486	/
+  2487	= Ballonbalgerei
+  2488	= Münzjäger
+  2489	= Ein paar Arenen
+  248a	= Ein paar mehr Arenen
+  248b	/
+  24b0	/
+  24c2	/
+  24d6	/
+  24ef	/
+  251c	= Spieler \z{802,120000}
+  251d	= \z{802,120000}
+  251e	= \z{802,140000}
+  251f	= \z{802,150000}
+  2520	= \z{803,100000}
+  2521	/
+  254e	= SP1
+  254f	= SP2
+  2550	= SP3
+  2551	= SP4
+  2552	/
+  2580	= \u{2460}
+  2581	= \u{2461}
+  2582	= \u{2462}
+  2583	= \u{2463}
+  2584	= \u{2464}
+  2585	= \u{2465}
+  2586	= \u{2466}
+  2587	= \u{2467}
+  2588	= \u{2468}
+  2589	= \u{2469}
+  258a	= \u{246a}
+  258b	= \u{246b}
+  258c	= /\u{246c}
+  258d	= -\u{246d}
+  258e	= +\u{246e}
+  258f	/
+  25b2	= \z{802,110000}\z{802,110001}\z{802,110002}\z{802,110003}\z{802,110004}
+	+ \z{802,110005}\z{802,110006}\z{802,110007}\z{802,110008}
+  25b3	= \u{246d}\z{802,110000}\z{802,110001}\z{802,110002}\z{802,110003}
+	+ \z{802,110004}\z{802,110005}\z{802,110006}\z{802,110007}\z{802,110008}
+  25b4	= \u{246e}\z{802,110000}\z{802,110001}\z{802,110002}\z{802,110003}
+	+ \z{802,110004}\z{802,110005}\z{802,110006}\z{802,110007}\z{802,110008}
+  25b5	= \z{802,110000}\z{800,46}/\z{802,110001}
+  25b6	= \z{802,110000}\z{802,110001}\z{800,46}/\z{802,110002}\z{802,110003}
+  25b7	= \z{802,110000}\z{802,110001}\z{802,110002}\z{800,46}/\z{802,110003}
+	+ \z{802,110004}\z{802,110005}
+  25b8	/
+  25e4	= VR
+  25e5	= BR
+  25e6	= RANK
+  25e7	= Guest
+  25e8	= ----
+  25e9	/
+  25ee	= \u{f060}
+  25ef	= \u{f061}
+  25f0	= \u{f062}
+  25f1	= \u{f063}
+  25f2	= \u{f064}
+  25f3	= \u{f065}
+  25f4	= \u{f066}
+  25f5	= \u{f067}
+  25f6	= \u{f074}
+  25f7	= \u{f075}
+  25f8	= \u{f076}
+  25f9	= \u{f077}
+  25fa	/
+  26ac	= Wo bist du? Warum spielst du mich nicht?\040
+  26ad	= Der Controller wurde gewechselt. Entscheide dich!\040
+  26ae	= Du kannst deinen Controller nicht wechseln,\n
+	+  während du spielst, du 1337 haX0r
+  26af	= You can't change controls while\n
+	+ playing on Nintendo WFC. Please\n
+	+ restore the original controls.
+  26b0	= This tournament is for Wii Wheels\n
+	+ only. Set the Wii Remote in the\n
+	+ Wii Wheel and press the A Button.
+
+
+#Menu edits
+
+
+#--- other messages
+
+     1	/
+   7d0	= OK
+   7d1	= ← Zurück
+   7d2	= Japp
+   7d3	= Nee
+   7d4	/
+   7d5	= →
+   7d6	/
+   7d7	= ←
+   7d8	/
+   7d9	= \z{a02,1000000000}/\z{a02,1000010000}
+   7da	= Mario Kart Adventures
+   7db	= Spiele alleine
+   7dc	= Spiele mit Freunden
+   7dd	= RIP Server
+   7de	= Mario Kart TV
+   7df	= Lizenzoptionen
+   7e0	= Records
+   7e1	= Worauf wartest du?   \040
+   7e2	= Hauptmenü
+   7e3	/
+   7e4	= Spiele mit dir und ein paar Robotern.
+   7e5	= Spiele mit einem Kumpel und ein paar Robotern.
+   7e6	= Spiele mit zwei Kumpels und ein paar Robotern.
+   7e7	= Fülle alle Controllerslots auf und fahre!\040
+   7e8	= Spiele online, wenn du eine Zeitmaschine benutzt.
+   7e9	= Spiele mit einem Freund online, wenn du eine Zeitmaschine benutzt.
+   7ea	= Sieh die Ranglisten an und nimm an Turnieren teil.
+   7eb	= Schau dir Rekorde an und wechsle dein Mii.
+
+
+   835	= Eine neue Mario Kart Adventures-Lizenz\n
+	+ wird erstellt.
+  
+
+   8d2	= Wechsle deine verdammten Batterien!\040
+
+   8fd	= 1\n
+	+ \z{800,46}Kumpel
+   8fe	= 2\n
+	+ \z{800,46}Kumpel
+   8ff	= 3\n
+	+ \z{800,46}Kumpel
+   900	= 4\n
+	+ \z{800,46}Kumpel
+   901	= \032ฃ\000\x{f044}\036\x{f047}\036
+   902	= \032ฃ\000\x{f05e}\036\x{f05f}\036
+   903	/
+   960	/
+   961	= Controllerregistrierung
+   962	= Drücke den A-Knopf auf dem Controller von Spieler 2.
+   963	= Drücke den A-Knopf auf dem Controller von Spieler 3.
+   964	= Drücke den A-Knopf auf dem Controller von Spieler 4.
+   965	/
+   966	/
+   967	/
+   968	/
+   969	/
+   9c4	= Ist das OK?
+   9c5	= Ändern
+   9c6	= Drücke den A-Knopf auf dem ersten Controller.
+   9c7	= Drücke den A-Knopf auf dem zweiten Controller.
+   9c8	= Drücke den A-Knopf auf dem dritten Controller.
+   9c9	= Drücke den A-Knopf auf dem vierten Controller.
+   9ca	= Hier sind die benutzten Controller.
+
+
+   bb8	= Mission
+   bb9	= Speedrun
+   bba	= Rennen
+   bbb	= KRIEG
+   bbc	/
+   bbd	/
+   bbe	= GÄHNccm\n
+	+ \z{800,32}Nur Karts
+   bbf	= 420ccm\n
+	+ \z{800,32}Nur Bikes
+   bc0	= 666ccm\n
+	+ \z{800,32}Karts und Bikes
+   bc1	= moo666\n
+	+ \z{800,32}Karts und Bikes
+   bc2	= GÄHNcc\n
+	+ \z{800,32}Karts und Bikes
+   bc3	= 420ccm\n
+	+ \z{800,32}Karts und Bikes
+   bc4	= \z{802,110000}Wechsel
+ 
+   ce9	= Drifteinstellungen
+   cea	= Automatisch
+   ceb	= Manuell
+   cec	= Hilfe
+   ced	= ■Automatischer Drift■\n
+	+ 1. Du driftest in Kurven automatisch.\n
+	+ 2. Du wirst nicht langsamer.\n
+	+ (\z{802,170000}Du kannst nicht hüpfen oder Mini-Turbos benutzen.)\n
+	+ \n
+	+ ■Manueller Drift■\n
+	+ 1. \z{802,170000}Nachdem du hüpfst, driftest du.\n
+	+ 2. Drifte, um einen Turbo-Boost (Mini-Turbo) zu bekommen.
+   cee	= Schau dir eine Erklärung zum Driften an.
+  
+
+   d48	= Regeln
+   d49	= Hubraum
+   d4a	= Charactere
+   d4b	= Vehikel
+   d4c	= Cups
+   d4d	= Kurse
+   d4e	= Arenen
+   d4f	= Geister
+   d50	= Kampf
+   d51	= VS
+   d52	= Klasse
+   d53	= GÄHNccm
+   d54	= 420ccm
+   d55	= 666ccm
+   d56	= moo666
+   d57	= GÄHNccm für Betrunkene
+   d58	= 420ccm für Geübte
+   d59	= 666ccm für hax0rz\040
+   d5a	= Spiegelverkehrte Kurse, 666ccm.
+   d5c	= Robot-KI
+   d5d	= Betrunken
+   d5e	= Nüchtern
+   d5f	= Apokalypse
+   d60	= NoBoter
+   d61	= Sturzbesoffene Roboter, die nicht gut fahren können.\040
+   d62	= Roboter funktieren auf nromalem Level.
+   d63	= Roboter sind schlauer als du.\040
+   d64	= Party like it's 1814! Was sind Roboter?\040
+   d66	= RoboVehikel
+   d67	= Karts
+   d68	= Bikes
+   d69	= Beides
+   d6a	= Roboter fahren nur Karts.
+   d6b	= Roboter fahren nur Bikes.
+   d6c	= Roboter fahren Karts und Bikes.
+   d6d	= Roboter fahren nur Karts.
+   d6e	= Roboter fahren nur Bikes.
+   d6f	= Roboter fahren Karts und Bikes.
+   d70	= Strecken
+   d71	= Auswahl
+   d72	= random.org
+   d73	= Reihenfolge
+   d74	= Wähle vor jedem Rennen die Strecke.
+   d75	= random.org wählt die Strecken.
+   d76	= Spiele Kurse nach ihrer Reihenfolge
+   d77	= Wähle for jedem KRIEG die Arena.
+   d78	= random.org wählt die Arenen.
+   d79	= Spiele die Arenen nach ihrer Reihenfolge.
+   d7a	= Anzahl Rennen
+   d7b	= Rennen: \z{a02,1000000001}
+   d7c	= Anzahl Siege
+   d84	= Siege: \z{a02,1000000001}
+   d85	= Teamrennen
+   d86	= Teamrennen
+   d87	= Solorennen
+   d88	/
+   d89	= Bestimme die Anzahl an Rennen.
+   d8a	= Bestimme die Anzahl an Siegen.
+   d8b	= Fahre in Teams um die meisten Punkte!
+   d8c	= Fahre um die meisten Punkte und die beste Platzierung!
+   d8d	= Stages
+   d8e	= Hörst du auf?\040
+   d8f	= Hörst du auf?
+   d90	= Fahre ein Rennen mit diesen Regeln.
+   d91	= Ziehe mit diesen Regeln in den KRIEG.
+   d92	= Bestimme die Regeln für das Rennen.
+   d93	= Bestimme die Regeln für den KRIEG.
+   d94	/
+   d98	= Items
+   d99	= Ausgeglichen
+   d9a	= AGGRESSIV
+   d9b	= Strategisch
+   d9c	= Keine
+   d9d	= Items sind ausgeglichen
+   d9e	= Starke Items erscheinen häufiger.
+   d9f	= Starke Items erscheinen seltener.
+   da0	= Keine Items, nur Fox.
+  
+
+
+   fac	= Japp
+   fad	= Nee
+  
+
+  10e0	= Das näcchste Rennen ist 420ccm.
+  10e1	= The next race is 666cc!
+  10e2	= The next race is a Mirror Race!
+  10e3	= \u{f069} Balloon Battle
+  10e4	= \u{f068} Coin Runners
+  10e5	= The next race is 420cc.
+  10e6	= The next race is 666cc!
+  10e7	= The next race is a Mirror Race!
+  10e8	= The next race is 420cc.
+  10e9	= The next race is 666cc!
+  10ea	= The next race is a Mirror Race!
+  
+  
+  
+  #race patches
+  
+   3e8	/
+   3e9	= Mach weiter...
+   3ea	= Gib auf
+   3eb	= Mach weiter...
+   3ec	= Gib auf
+   3ed	= Wechsel den Kurs
+   3ee	= Wechsel den Charakter
+   3ef	= Neustart.\040
+   3f0	= Wähle eine Mission
+   3f1	= Drücke hier
+   3f2	= Nächstes
+   3f3	= Neustart
+
+   454	= Japp
+   455	= Nee
+   45c	=  
+   45f	=  
+   460	/
+   461	= Ein schneller Teamgeist erscheint!
+   4b1	~ 0x00000000
+   4b1	= \x{f06c}
+   4b2	~ 0x00000000
+   4b2	= \x{f06b}
+   4b3	~ 0x00000000
+   4b3	= \x{f06a}
+   4b4	~ 0x00000000
+   4b4	= LOS!
+   4b5	~ 0x00000000
+   4b5	= ZIEL!
+   4b6	~ 0x00000000
+   4b6	= SIEGER!
+   4b7	~ 0x00000000
+   4b7	= VERLIERER!
+   4b8	/
+   4b9	/
+   4ba	= Conglaturations!
+   4bb	~ 0x00000000
+   4bb	= NEUER REKORD!
+   4bc	= Rekord
+   4bd	= Beste Runde
+   4be	= \c{red2}Das rote Team gewinnt!
+   4bf	= \c{blue1}Das balaue Team gewinnt!
+   4c0	= \c{red2}Das rote Team gewinnt!
+   4c1	= \c{blue1}Das balaue Team gewinnt!
+   4c2	= Unentschieden.
+   4c3	= A winner is you!
+   4c4	= Zweiter. Akzeptabel.
+   4c5	= Du drittes Rad am Fahrrad!
+   4c6	= LOL N00B!
+   4c7	= \c{red2}Das rote Team verliert.
+   4c8	= \c{blue1}Das blaue Team verliert.
+   4c9	= \c{red2}Das rote Team verliert.
+   4ca	= \c{blue1}Das blaue Team verliert.
+
+   536	= ZEIT
+   537	= RUNDE
+   538	= PUNKTE
+   539	= LIVE
+ 
+ 
+   589	= GÄHNccm
+   58a	= 420ccm
+   58b	= 666ccm
+   58c	= moo666
+
+   
+
+   
+ #pause menu text---------
+ 
+   5dc	= Item
+   5dd	= Rotieren
+   5de	= Beschleunigen
+   5df	= Bremsen
+   5e0	= Stopp
+   5e1	/
+
+
+  
+

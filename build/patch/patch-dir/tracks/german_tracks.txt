@@ -1,0 +1,72 @@
+﻿#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+#------------------------------------------------------------------------------
+#
+# This is a textual representation of a BMG file used in Nintendos "Mario Kart
+# Wii". "Wiimms SZS Tools" can convert binary (raw) and text BMG files in both
+# directions.
+#
+# More info about the BMG file format: http://szs.wiimm.de/r/wiki/BMG
+#
+#------------------------------------------------------------------------------
+
+
+#--- standard track names
+
+  T11	= Vulkanhimmel
+  T12	= Entoninseln \u{f069}
+  T13	= Spukwald
+  T14	= Magmaröhren
+
+  T21	= Feuchtlandwald
+  T22	= Meeresresort
+  T23	= \c{red3}SM64 \c{gray}Bibberberg Bob's Rutschbahn
+  T24	= Schwimmbadtour
+
+  T31	= Buchtenstadt\u{f069}
+  T32	= Punch-Stadt
+  T33	= Vulkanstrand \u{f061}
+  T34	= Rush City
+
+  T41	= Ruinenkurs
+  T42	= Mondstadt
+  T43	= \c{blue2}Sonic \c{gray}Funkelstraße
+  T44	= Mondrundfahrt
+
+  T51	= \c{green}Zelda \c{gray}Präludien
+  T52	= \c{yellow}Sugar Rush \c{gray}Zuckerberge
+  T53	= \c{blue2}F-Zero \c{gray}Big Blue
+  T54	= \c{red3}SM64 \c{gray}Schlossgarten
+
+  T61	= \c{yellow}DKR \c{gray}Rumpelsee
+  T62	= \c{yellow}DKR \c{gray}Dschungelsturz
+  T63	= \c{yellow}DKR \c{gray}Spukwald
+  T64	= \c{yellow}DKR \c{gray}Sternenstadt
+
+  T71	= Fluss der Träume \u{f062}
+  T72	= Wolkenpfad
+  T73	= Schoko-Achterbahn
+  T74	= Halogen-Highway \u{f062}
+
+  T81	= Isla Delfino
+  T82	= Dämmerschlucht \u{f062}
+  T83	= Pista Morgana \u{f061}
+  T84	= Lapyrinth der Könige \u{f061}
+
+
+#--- battle track names
+
+  U11	= N64 Riesendonut
+  U12	= Bowser Jr.'s Flammenflotte
+  U13	= GCN Auf der Kippe
+  U14	= Asteroiden-Land
+  U15	= GCN Block-City
+
+  U21	= DS Süsse Torte
+  U22	= Düstervilla
+  U23	= Casino Night
+  U24	= Aquarium Park
+  U25	= Knochenbowser-Arena
+  
+

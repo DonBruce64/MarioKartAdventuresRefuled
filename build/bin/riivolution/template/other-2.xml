@@ -1,0 +1,11 @@
+ </patch>
+
+ <patch id="@@ID@@_savec">
+  <savegame external="/@@SAVEDIR@@/" clone="true" />
+ </patch>
+
+ <patch id="@@ID@@_saven">
+  <savegame external="/@@SAVEDIR@@/" clone="false" />
+ </patch>
+
+</wiidisc>

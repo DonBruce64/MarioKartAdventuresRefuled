@@ -1,0 +1,16 @@
+# folders created by the build scripts
+build/patch-dir
+build/new-image
+
+# helper working dir folder, for interal use by editors.
+build/temp
+
+# actual patch tar (too big for git to handle well), but allows keeping in the build folder for testing.
+build/patch.tar
+
+# exclude actual sound brsar file.  This would normally be here in the un-compressed patch dir.  Ignore for builder convinence.
+patch/patch-dir/music/revo_kart.brsar
+
+# exclude ALL ISO and WBFS files that might have been created from a build from a contributor that might get grabbed by git.
+*.iso
+*.wbfs

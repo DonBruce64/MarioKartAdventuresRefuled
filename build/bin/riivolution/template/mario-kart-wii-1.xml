@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wiidisc version="1">
+
+ <id game="@@ID3@@" disc="0" version="0">
+  <region type="P"/>
+  <region type="E"/>
+  <region type="J"/>
+  <region type="K"/>
+ </id>
+
+ <options>
+  <section name="@@TITLE@@" >
+
+   <option id="@@ID@@-tracks" name="Custom Tracks + Arenas" default="1">
+    <choice name="Enabled">
+     <patch id="@@ID@@_tracks" />
+    </choice>
+   </option>
+
+   <option id="@@ID@@-chars" name="Character+Vehicle textures" default="1">
+    <choice name="Enabled">
+     <patch id="@@ID@@_chars" />
+    </choice>
+   </option>
+   
+   <option id="@@ID@@-sound" name="Music and Character Voices" default="1">
+    <choice name="Enabled">
+     <patch id="@@ID@@_sound" />
+    </choice>
+   </option>
+
+   <option id="@@ID@@-save" name="Separate Savegame" default="2">
+    <choice name="Enabled (clone it)">
+     <patch id="@@ID@@_savec" />
+    </choice>
+    <choice name="Enabled (use it)">
+     <patch id="@@ID@@_saven" />
+    </choice>
+   </option>
+  </section>
+ </options>
+
+ <patch id="@@ID@@_tracks">

@@ -1,0 +1,440 @@
+﻿     |  \/  | __ _ _ __(_) ___   | |/ /__ _ _ __| |_   
+     | |\/| |/ _` | '__| |/ _ \  | ' // _` | '__| __|  
+     | |  | | (_| | |  | | (_) | | . \ (_| | |  | |_   
+     |_|  |_|\__,_|_|  |_|\___/_ |_|\_\__,_|_|   \__|  
+    / \   __| |_   _____ _ __ | |_ _   _ _ __ ___  ___ 
+   / _ \ / _` \ \ / / _ \ '_ \| __| | | | '__/ _ \/ __|
+  / ___ \ (_| |\ V /  __/ | | | |_| |_| | | |  __/\__ \
+ /_/   \_\__,_| \_/ \___|_| |_|\__|\__,_|_|  \___||___/
+            ____              _ _ _                    
+           / ___|_ __ ___  __| (_) |_ ___              
+          | |   | '__/ _ \/ _` | | __/ __|             
+          | |___| | |  __/ (_| | | |_\__ \             
+           \____|_|  \___|\__,_|_|\__|___/             
+                                                       
+
+
+
+##############################################################
+TRACK CREDITS
+##############################################################
+
+
+
+CUP 1: Lost On Land
+####################################
+
+
+Psyduck Cliffs v1.5
+Credits: Jefe (creator & designer)
+Music: Super Mario 3D world - SMG2 throwback galaxy mashup
+
+Wetland Woods v1.1
+Credits: Vulcanus2 (creator & designer)
+Music: NoppZ (OverClocked ReMix) - Hyrule Party Mix
+
+Sunset Ridge RC5
+Credits: Vulcanus2, BigOto2 (creators) DemyxlX (designer) 
+Music: Benjamin Briggs (OverClocked ReMix) - Spoiled R0TT3N
+
+Retro Raceway RC2.1
+Credits:  wiimaster35000vr, Björn, LuigiM (creator) Björn, LuigiM (Designer) SpyKid Sniki (fixes)
+Music: Caravan Palace - Je M’amuse
+
+
+
+CUP 2: Resort Circuit
+####################################
+
+
+Concord Town v4.0.1
+Credits: RemyInTheSky (creator & designer)
+Music: Super Mario 3D world - SMG2 throwback galaxy mashup
+
+Seaside Resort v1.4.opt
+Credits: LuigiM (creator & designer)
+Music: ClefferNotes - Wuhu Beach
+
+Volcano Beach 3 v1.5
+Credits: Ermelber (creator & designer)
+Music: Hylian Lemon (OverClocked ReMix) - Spelunking in Space (Cocoa Cave)
+
+Bayside Boulevard v1.2
+Credits:  SpyKid (creator) SpyKid, Cracklink, MarLuc2304 (Designer)
+Music: chthonic (OverClocked ReMix) - Starbound ~ Theme of Dream Warrior
+
+
+
+CUP 3: Spaced Out
+####################################
+
+
+N64 Rainbow Road: Lunar Edition (Lunar Road) v1.3
+Credits: BigOto2 (creator & designer)
+Music: Benjamin Briggs - Can the Eel Come Out To Play? 
+
+Twinkle Circuit v2.0
+Credits: igorseabra4 (creator) SEGA/Sonic Team (designer)
+Music: WillRock (OverClocked ReMix) - Snowboardin' Sonic
+
+Celestial Ruins v2.4.1
+Credits: ChaosShadow23 (creator & designer)
+Music: Benjamin Briggs - BITE
+
+River of Dreams v1.3.6
+Credits: xBlue98 (creator & designer)
+Music: Lemaitre - Strobes pt 2
+
+
+
+CUP 4: Cit-E-Scape
+####################################
+
+
+Skyline Avenue  v2.01
+Credits: SpyKid (creator & designer)
+Music: TechnoClassic - Rock It
+
+Luna City  v1.4b
+Credits: SpyKid (creator) Scye, SpyKid (designers) ZillaSpaz (fixes)
+Music: Pretty Lights - Fly Like An Eagle (remix)
+
+Rush City Run Beta 5.opt
+Credits: Gredmega (creator & designer)
+Music: Magellanic & PROTO·DOME (OverClocked ReMix) - Take it All the Way 
+#Fix music cutout.
+
+Halogen Highway v1.0
+Credits: BigOto2 (creator & designer)
+Music: Anamanaguchi - Helix Nebula
+
+
+
+CUP 5: Game Tour
+####################################
+
+
+Sugar Rush Candy Mountains v1.0
+Credits: DJLowgey, Mewtwo2000, MrKoeikoei (creator) DJ Lowgey (designer)
+Music: Bobby Smith - Sugar Rush (8-bit)
+
+Zelda Outset Island v1.0.mka
+Credits: WhiteMEX, Rukasudo90 (creators) Nintendo (designer)
+Music: Zelda Wind Waker Staff Credits
+
+SM64 Castle Grounds Beta 2.mka
+Credits: ZillaSpaz (creator) Nintendo, ZillaSpaz (designer)
+Music: Theory of N (OverClocked ReMix) - Somebody Set Us Up the Bob-omb
+
+SM64 Cool Cool Mountain Slide v1.2
+Credits:YellowYoshi (creator & designer) Wiimm (fixes)
+Music: Sir Jordanius, G-Mixer (OverClocked ReMix) - Hush Hour
+
+
+
+CUP 6: Diddy Kong Racing
+####################################
+
+
+DKR Ancient Lake v2.1
+Credits: DJLowgey, Mewtwo2000 (creator) Rare (designer)
+Music: Benjamin Briggs - Stupid Monkey Beach Party (Crescent Island) 
+
+DKR Jungle Falls v2.1
+Credits: MrKoeikoei Mewtwo2000 (creator) Rare (designer)
+Music: Benjamin Briggs - Hi There!(Lobby)
+
+DKR Haunted Woods RC1c
+Credits: Nodrazir (creator) Rareware (designer) 
+Music: Benjamin Briggs - Peach's Fireplace Secret (Get a Freebie​!​)
+
+DKR Star City v1.1
+Credits: Mewtwo2000 (creator) Rare (designer)
+Music: Benjamin Briggs - Interstellar Dream Disco (Darkmoon Caverns)
+
+
+
+CUP 7: Overdrive
+####################################
+
+
+Sunset Raceway v3.0
+Credits: Ray, Ermelber (creator & designer)
+Music: prozax (OverClocked ReMix) - Dream Racing
+
+Seaside Circuit Beta 3
+Credits: Super blooper kirio (creator & designer) maczkopeti (fixes)
+Music: Benjamin Briggs - Hot Pockets (Hot Top Volcano)
+
+F-Zero Big Blue v1.4
+Credits: Jefe (creator) Nintendo EAD (desginer)
+Music: JJT (OverClocked ReMix) - Voices Broken
+
+GP Mario Beach Beta 2.1a
+Credits: SuperMario64DS, DJ Lowgey (creator) Nintendo (designer)
+Music: Unknown?  Came with the track.
+
+
+
+Cup 8: Elite Four
+####################################
+
+
+Delfino Island v3.5.4
+Credits: Vulcanus2 (creator & designer)
+Music: Qumu - Delfino Plaza [Remix]
+
+Dreamworld Cloudway v2.3
+Credits: SpyKid (creator & designer)
+Music: 
+Laps 1, 2: Plavik - Fairy Fountain Song (dubstep remix)
+Final Lap: HuggerMugger - Where you at
+
+Six King Labyrinth v1.2
+Credits: MrBean35000vr, Chadderz (creators & designers)
+Music:
+Laps 1, 2: zircon (OverClocked ReMix) - Monstruous Trutles!
+Final Lap: Benjamin Briggs - No Yoshis Allowed
+
+Strobenz Desert 2 v2.0
+Credits: HelloImYourMind
+Music: ParagonX9 (OverClocked ReMix) - The Alternate Route
+
+
+
+Battle Tracks 1: Some Arenas
+####################################
+
+
+N64 Big Donut v1.0
+Credits: MRbuttCHINSx11T7 (Porter)
+Music: MrBulbamike - Lysandre Battle 8-Bit
+
+Bowser Jr's Fiery Flotilla (N64 Skyscraper Texture Mod)  v1.0
+Credits: DarkyBenji (Texture Hacker) 
+Music: Pixel - Balrog's Theme (Cave Story)
+
+GCN Tilt-A-Kart v1.1a
+Credits: Suigetsu (Porter)
+Music:  The Octopus Project - Truck
+
+Asteroid Land(GCN Cookie Land Texture Mod) v1.0
+Credits: Betelrama (Texture Hacker)
+Music: Pixel - Last Boss (Cave Story)
+
+GCN Block City v1.0
+Credits: MRbuttCHINSx11T7 (Porter)
+Music: Pixel - Eyes of Flame (Cave Story)
+
+
+
+Battle Tracks 2: Some More Arenas
+####################################
+
+
+DS Tart Top RC1
+Credits: MRbuttCHINSx11T7 (Porter)
+Music:  MrBulbamike - Sweet Sweet Canyon 8-Bit
+
+Midnight House(DS Twilight House Texture Mod) v1.0
+Credits: Betelrama (Texture Hacker)
+Music: MrBulbamike - Dark World 8-Bit
+
+Casino Night (Block Plaza Texture Mod) v1.0
+Credits: DarkyBenji (Texture Hacker)
+Music: Mattias Häggström Gerdt, GSlicer (OverClocked ReMix) - Casino Lounge
+
+Aquarium Park (Delfino Pier Texture Mod) v1.0
+Credits: DarkyBenji (Texutre Hacker)
+Music: Pixel - Living Waterway (Cave Story)
+
+Dry Bowser Stadium (Funky Stadium Texture Mod) v1.0
+Credits: Betelrama (Texture Hacker)
+Music: Pixel - Labyrinth Fight (Cave Story)
+
+
+
+
+##############################################################
+MISCELLANEOUS MUSIC CREDITS
+##############################################################
+
+Title Music: PROTO DOME (OverClocked ReMix) - GO! GO! GO!
+Menu Music:  Benjamin Briggs - CryptoFunk (DEMO)
+Options: Tally Screen Jake Kaufman - (Mighty Switch Force)
+
+Fanfare for Course Preview: ClefferNotes - Course Intro (Mario Kart 8)
+Fanfare for Battle Preview: Smash Brothers Brawl Menu
+
+Finish Race First:  Pokemon - Gym Leader Defeat
+Finish Race OK:  Lemaitre - Excuse Me Princess
+Finish Race Bad: Zelda - NES Gameover
+
+Finish Battle First: MrBulbamike (Super Mario 3D World)- Double Cherry Pass 8-Bit 
+Finish Battle Winning team but not top player: MrBulbaMike (Sonic 2) - Chemical Plant Zone 8-Bit
+Finish Battle Bad: MrBulbamike (Phoenix Wright: Dual Destinies) - Objection! 8-Bit
+
+Receive Trophy: We are the Champions - Queen
+Finish Cup 4th or below: Schadenfreude - Aveneue Q
+
+
+##############################################################
+CHARACTER CHANGES
+##############################################################
+
+Baby Mario -> Flying Baby Mario (Mario And Sonic Guy)
+Baby Luigi -> Professor E. Gadd (DJ Lowgey)
+Baby Peach -> Baby Rosalina (Myron)
+Baby Daisy -> Kirby (Lone Devil)
+
+
+Toad -> Colored Shy Guys (Yoshidude4)
+Toadette -> Dark Toadette (Xeto94)
+Koopa Troopa -> Tuxie (DJ Lowgey)
+Dry Bones -> Goomba (DJ Lowgey)
+
+
+Mario -> Flying Mario (Mario And Sonic Guy)
+Luigi -> Sonic (Core->ALE XD, Award->Lone Devil, Sounds->Unknown)
+Peach -> Negatif Peach (Darky Benji)
+Daisy -> Crash Bandicoot (DJ Lowgey)
+
+
+Yoshi -> Colored Yoshis
+Birdo -> Pac-Man (DJ Lowgey)
+Diddy Kong -> Diddy Kong (we miss you in Mario Kart 8!)
+Bowser Jr. -> Spongebob (HourofPoop)
+
+
+Wario -> Dr. Eggman (ALE XD)
+Waluigi -> Link (Ohthatsjustgr8)
+Donkey Kong -> Wreck-It Ralph (DJ Lowgey)
+Bowser -> Pianta (DJ Lowgey)
+
+
+King Boo -> King Boo from Luigi's Mansion (TravixMan)
+Rosalina -> Darky Rosalina (Darky Benji)
+Funky Kong -> Darky Funky Kong (Darky Benji)
+Dry Bowser -> Dry bowser (Dry Boozer in name change only)
+
+
+##############################################################
+ALTERNATE TEXTURES/MODELS
+##############################################################
+
+BABY MARIO
+Baby Wario Texture over Bullet Bike (Myron)
+Stewie Texture over Jet Bubble (Myron)
+
+SHY GUY
+Colored Shy Guys - Each Shy Guy is a different color,
+all colors by Helix.
+
+Standard Kart S - White
+Standard Bike S - Red
+Booster Seat - Purple
+Bullet Bike - Black
+Mini Beast - Brown
+Bit Bike - Green
+Cheep Charger - Orange
+Quacker - Blue
+Tiny Titan - Pink
+Magikruiser - Teal
+Blue Falcon - Light Blue
+Jet Bubble - Yellow
+
+MARIO 
+Darky Mario Texture over W25 Silver Arrow and Mach Bike (DarkyBenji)
+Fire Mario Texture over DayTRIPper and Sneakster (Metalkingboo)
+Metal Mario Texture over Sprinter and Dolphin Dasher (ShadowLuigi-NG-)
+
+SONIC
+Sonic (on foot) over Mach Bike (ShadowLuigi-NG-)
+
+YOSHI
+Colored Yoshis - Each Yoshi is a different color,
+colors by Mario And Sonic Guy, Helix, Yoshilex3, and BrawlerJesse
+
+Standard Kart M - Brown
+Standard Bike M - Green
+W25 Silver Arrow - Teal
+Mach Bike - Red (Mario And Sonic Guy)
+Wild Wing - Grey
+Sugarscoot - Orange
+Super Blooper - Black 
+Zip Zip - Blue
+DayTRIPper- Pink 
+Sneakster - Purple
+Sprinter - Yellow
+Dolphin Dasher - White
+
+FUNKY KONG
+Troy's Funky Kong - Over Flame Runner (Unknown)
+
+
+
+##############################################################
+KARTS
+##############################################################
+
+
+Classic Dragster (medium) - W25 Mercedes Silver Arrow by TomixNscale89, Yoshidude4
+
+
+##############################################################
+ITEM CHANGES
+##############################################################
+
+
+Banana -> Ice Flower (CaronHT)
+Green Shell -> Green Fireball (Unknown)
+Red Shell -> Red Fireball (Tock)
+Blue Shell -> Latios (Guilmon35249vr)
+Fake Item Box -> Alternate Fake Item Box (4IT-Lecce)
+Mushroom-> 1-up Mushroom (CaronHT)
+Gold Mushroom -> Sonic's Shoe (CaronHT)
+Big Mushroom -> Maxim Tomato (CaronHT)
+Bob-Omb -> Link's Bomb from Twilight Princess (Darky Benji)
+Bullet Bill -> Mole Kart Drill (1544C)
+Blooper -> Alternate Blooper (4IT-Lecce)
+Thunderbolt-> Cyan Wisp (Darky Benji)
+Star -> Nyan Cat (do I really need to say where this is from?)
+Thundercloud -> Boo (Koops9999vr)
+POW Block -> Alternate POW Block (CaronHT)
+
+
+
+##############################################################
+TRANSLATIONS
+##############################################################
+
+
+English: All translations by Helix
+German: All translations by Nickname
+Spanish NTSC and PAL: first translation by SuspectVernacular, updated versions by gburgue
+
+##############################################################
+MISCELLANEOUS CREDITS
+##############################################################
+
+
+DarkUmbra: forum devoted to custom games. Users have been extremly helpful and supportive for version 0.8.
+DarkyBenji: We've taken a lot of little touches from her DarkyKartWii texture mod, including but not limited to the font and the sonic rings during racing. 
+Horsti: Helped with testing and discussing tools.
+larsenv: Helped with testing and provided a logo for version 0.8
+Witch: She is awesome! Before Nickname joined our team, a lot of the .brstms (music files) were created by her. 
+
+
+##############################################################
+CONTENT SOURCES
+##############################################################
+
+
+http://wiki.tockdom.com/wiki/Main_Page A large wiki aimed at custom mario kart content. It has custom tracks, custom characters, custom distributions, and plenty of tutorials on how to make your own content.
+http://ocremix.org/ A large and active organization dedicated to the appreciation and promotion of video game music as an art form. This provides a fantastic way to collaborate with other musicians and to find information on game music and composers. Also, they have put out thousands of free fan arrangements of video game music. 
+http://benbriggs.net/  We've ended up using a lot of Benjamin Brigg's music in this game, since we found his style to go great with Mario Kart tracks. You can name your price for all his content and whatever you decide to pay goes directly to supporting his dream of being a self employed musician. 
+http://www.brawlcustommusic.com/ This site has a ton of music converted into .brstm format. It has a huge archive and we found some of the songs we wanted to use already on this site, such as the OverClocked ReMixes of megaman music and of the aquatic ambience theme from Donkey Kong Country. 
+http://www.cavestory.org/ This game started as a Japanese freeware PC game, but due to its popularity and game design, its been ported to Nintendo WiiWare. Check this game out if you're a fan of side-scroller platformers.
+http://beesandbombs.tumblr.com/ dave whyte creates incredible repeating .gifs. We use one of them in our menus and we may be using more in the future. 
+https://www.youtube.com/user/ClefferNotes Does renditions of video game music, tutorials, and more! We use his music for our track preview fanfare and for Seaside Resort.
+https://www.youtube.com/user/MrBulbamike MrBulbamike does 8 bit versions of recent nintendo songs. Ever wonder what mario kart 8 music would sound like as 8-bit? This would be the place to check for it. 

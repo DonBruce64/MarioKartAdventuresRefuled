@@ -182,6 +182,9 @@ if [[ -d "./ui/cups" ]]; then
 	#As a final thing, patch the cup selection preview.
 	if [[ $PARTIAL_PATCH_TRACKS == "1=yes"  && $ADVANCE_OPTIONS == "1=yes" ]] || [[ $ADVANCE_OPTIONS == "0=no" ]]; then
 		source="./ui/cups/select.thp"
+		if [[ ! -f $source ]]; then
+			source="./ui/menu/null.thp"
+		fi
 		dest="./files/thp/course/cup_select.thp"
 		if [[ -f $source && -f $dest ]]; then
 			#echo "Replacing CUP SELECT THP $source $dest"
